@@ -10,6 +10,10 @@ And this is collection of several developments that have been carried out so far
 ### Installation
 
 ```
+nstall Termux (PlayStore)
+Open Termux and Wait for Automatic Install of Termux.
+$pkg install git
+$pkg install nodejs
 $ git clone https://github.com/masokky/instagram-tools.git
 $ cd instagram-tools
 $ node index.js
